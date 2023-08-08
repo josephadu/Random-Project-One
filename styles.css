@@ -1,0 +1,19 @@
+body {
+    background-color: #eaf6f6;
+}
+
+hr {
+    width: 100px;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    border-color: grey;
+}
+
+p {
+    text-decoration: none;
+}
+
+h1:hover {
+    color: greenyellow;
+}
